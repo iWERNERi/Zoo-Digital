@@ -8,7 +8,7 @@
 
     <groupId>br.edu.atitus.ricardo_trento_werner</groupId>
     <artifactId>zoo-digital</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1138812</version>
 
     <properties>
         <maven.compiler.source>26</maven.compiler.source>
@@ -21,7 +21,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
-            <version>1138812</version>
+            <version>3.14.0</version>
         </dependency>
 
     </dependencies>
